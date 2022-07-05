@@ -7,4 +7,4 @@ cd ~/Documents
 git clone https://github.com/Frogging-Family/nvidia-all.git
 cd nvidia-all
 makepkg -si # nvidia drivers
-
+steam
